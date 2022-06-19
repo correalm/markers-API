@@ -3,8 +3,8 @@ API para permitir a integração com banco de dados não-relacional (mongoDB). R
 
 #Para iniciar a aplicação node:
 nmp start
-Irá abrir uma conexão em: http://localhost:3001
+-> Irá abrir uma conexão em: http://localhost:3001
 
 #Para rodar os testes da aplicação:
 npm test
-Irá iniciar o Jest. São apresentados os testes do CRUD.
+-> Irá iniciar o Jest. São apresentados os testes do CRUD.
